@@ -1,0 +1,5 @@
+.git
+.github
+README.md
+packages/release.env
+packages/*.tmp

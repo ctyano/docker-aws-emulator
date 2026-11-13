@@ -1,0 +1,3 @@
+packages/*.rpm
+packages/*.tmp
+packages/release.env
